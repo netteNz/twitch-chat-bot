@@ -4,7 +4,7 @@ const tmi = require('tmi.js');
 const opts = {
   identity: {
     username: "latency_io",
-    password: "oauth:9wxeqlx2hyox4adzgnjougiiihrd4k"
+    password: 
   },
   channels: [
     "nettenz"
